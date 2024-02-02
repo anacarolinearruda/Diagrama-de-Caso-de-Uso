@@ -7,3 +7,5 @@ Ele ajuda a entender os requisitos funcionais de um sistema, destacando as difer
 
 Disponibilizei um exemplo do Diagrama de Caso de Uso para o projeto "Playlist Colaborativa" do Spotify no formato de arquivo .docx (Microsoft Word). 
 Você pode baixar o arquivo. Este exemplo ilustra como um caso de uso pode ser representado visualmente para melhor compreensão e documentação.
+
+*
